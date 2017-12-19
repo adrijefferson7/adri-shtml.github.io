@@ -1,0 +1,51 @@
+<html> 
+	<head> 
+		<title> 
+		adri's website
+		</title> 
+		<style>
+					p{
+				color:white;
+				font-size:20px;
+				}
+				</style>
+				<link rel="stylesheet" type="text/css" href="adri.css">
+		</head> 
+	<body> 
+
+		
+		<marquee>
+	<p>
+ 		Odell Beckham Jr.
+ 	</p>
+		</marquee> 
+
+
+		<center>
+		<h1>
+	<p>
+			I want to do my hair like Odell Beckham Jr. and dance like him
+	</p>
+		</h1>
+		</center>
+<center>
+		<img src= "http://assets.nydailynews.com/polopoly_fs/1.3196465.1495748878!/img/httpImage/image.jpg_gen/derivatives/article_750/663572364.jpg"/>
+	</center>
+		<h2>
+		<p>
+			The reason Odell is so good at one-handed snags is because of his hairstyle. It is his source of power. I have a swaggin' hairstyle, but it is not the kind I need if I want to make one-handed catches. Because I want to be like Odell, but better, I need to change my hairstyle. I will miss the hair I have now, but it is a necessary sacrifice for the sake of my sport. Get ready to see the brand new me. Football is a big part of my life. i watch Odell beckham he also is good at dancing
+	    </p>
+	</h2>
+
+<center>
+			<video width="800" height="400" controls autoplay>
+			<source src="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=5&cad=rja&uact=8&ved=0ahUKEwiv3eTwpcPWAhUF1GMKHeBQBTEQtwIINzAE&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH0fcstB2sTo&usg=AFQjCNGkjhANqrQYdYjYmAC4ez8UHIpGpA" type="video/mp4">
+			<source src="" type="video/ogg">
+		</video> 
+
+</center>
+	</body> 
+
+</html>
+
+
